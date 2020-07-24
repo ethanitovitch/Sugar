@@ -4,6 +4,10 @@ import os
 import sys
 
 
+
+#an edit
+
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sugar.settings')
     try:
